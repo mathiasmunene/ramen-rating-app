@@ -25,3 +25,17 @@ Welcome to **Ramen Rater**, a fun and interactive web application for rating you
    git clone https://git@github.com:mathiasmunene/ramen-rating-app.git
 2. **cd ramen-rating-app**:
 3. **open the project**
+
+## **Usage**
+- **View Ramen Dishes**:
+ **The ramen images are displayed in the Ramen Menu section.**
+
+Click on any image to view its details (name, restaurant, rating, and comment).
+
+Add a New Ramen:
+
+Fill out the form at the bottom of the page.
+
+Provide the ramen's name, restaurant, image URL, rating, and comment.
+
+Click Add Ramen to submit the form. The new ramen will appear in the Ramen Menu.
