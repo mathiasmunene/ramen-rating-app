@@ -4,30 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ramen Rater</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-    <div id="ramen-menu"></div>
-    <div id="ramen-detail">
-        <h2 id="ramen-name"></h2>
-        <h3 id="ramen-restaurant"></h3>
-        <p id="ramen-rating"></p>
-        <p id="ramen-comment"></p>
+    <header>
+        <h1>Ramen Rater 🍜</h1>
+        <p>Rate and explore the best ramen dishes!</p>
+    </header>
+    <main>
+        <div id="ramen-menu"></div>
+        <div id="ramen-detail">
+            <h2 id="ramen-name"></h2>
+            <h3 id="ramen-restaurant"></h3>
+            <p id="ramen-rating"></p>
+            <p id="ramen-comment"></p>
         <div class="rating">
             ★★★★☆
         </div>
         <button id="edit-rating">Edit Rating</button>
         <button id="delete-ramen">Delete Ramen</button>
 
-    </div>
-    <form id="new-ramen">
-        <input type="text" name="name" placeholder="Ramen Name" required>
-        <input type="text" name="restaurant" placeholder="Restaurant" required>
-        <input type="text" name="image" placeholder="Image URL" required>
-        <input type="number" name="rating" placeholder="Rating" required>
-        <textarea name="comment" placeholder="Comment"></textarea>
-        <button type="submit">Add Ramen</button>
-    </form>
+        </div>
+        <form id="new-ramen">
+            <input type="text" name="name" placeholder="Ramen Name" required>
+            <input type="text" name="restaurant" placeholder="Restaurant" required>
+            <input type="text" name="image" placeholder="Image URL" required>
+            <input type="number" name="rating" placeholder="Rating" required>
+            <textarea name="comment" placeholder="Comment"></textarea>
+            <button type="submit">Add Ramen</button>
+        </form>
+    </main>
+    <footer>
+        <p>Made with ❤️ by KENYAN RAMEN LOVERS <a href="https://github.com/mathiasmunene" target="_blank">MATHIAS</a></p>
+        <p>© 2025 Ramen Rater. All rights reserved.</p>
+    </footer>
     <script src="./index.js"></script>
 </body>
 </html>

@@ -34,8 +34,6 @@ Welcome to **Ramen Rater**, a fun and interactive web application for rating you
 
 - **Add a New Ramen**:
 
-**Fill out the form at the bottom of the page.
-
-Provide the ramen's name, restaurant, image URL, rating, and comment.
-
-Click Add Ramen to submit the form. The new ramen will appear in the Ramen Menu.**
+- ** Fill out the form at the bottom of the page.**
+- ** Provide the ramen's name, restaurant, image URL, rating, and comment.**
+- ** Click Add Ramen to submit the form. The new ramen will appear in the Ramen Menu.**
