@@ -30,12 +30,12 @@ Welcome to **Ramen Rater**, a fun and interactive web application for rating you
 - **View Ramen Dishes**:
  **The ramen images are displayed in the Ramen Menu section.**
 
-Click on any image to view its details (name, restaurant, rating, and comment).
+**Click on any image to view its details (name, restaurant, rating, and comment).**
 
-Add a New Ramen:
+- **Add a New Ramen**:
 
-Fill out the form at the bottom of the page.
+**Fill out the form at the bottom of the page.
 
 Provide the ramen's name, restaurant, image URL, rating, and comment.
 
-Click Add Ramen to submit the form. The new ramen will appear in the Ramen Menu.
+Click Add Ramen to submit the form. The new ramen will appear in the Ramen Menu.**
